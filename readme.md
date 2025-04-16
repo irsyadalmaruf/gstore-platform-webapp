@@ -20,8 +20,8 @@ A web-based **Online Game Store** application built using **CodeIgniter 3** and 
 
 ## 👥 Team Members
 
-- Defri Prasetyo  
 - Irsyad Al Ma'ruf  
+- Defri Prasetyo  
 - Birul Walid  
 - Defa Anges Tunggara  
 - Muhammad Iqbal Saputra
